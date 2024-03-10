@@ -1,5 +1,6 @@
 # Video_Recorder_CV
-Simple video recorder using OpenCV
+Simple video recorder using OpenCV.
+Download CV_VideoRecorder.py to use.
 
 # Functions
 1. You can record video with space.
